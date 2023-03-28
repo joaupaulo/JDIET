@@ -1,0 +1,17 @@
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\bin\Debug\net6.0\JDiet.Core.deps.json
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\bin\Debug\net6.0\JDiet.Core.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\bin\Debug\net6.0\JDiet.Core.pdb
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\bin\Debug\net6.0\JDiet.Domain.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\bin\Debug\net6.0\JDiet.Repository.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\bin\Debug\net6.0\JDiet.Domain.pdb
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\bin\Debug\net6.0\JDiet.Repository.pdb
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\JDiet.Core.csproj.AssemblyReference.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\JDiet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\JDiet.Core.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\JDiet.Core.AssemblyInfo.cs
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\JDiet.Core.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\JDiet.Core.csproj.CopyComplete
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\JDiet.Core.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\refint\JDiet.Core.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\JDiet.Core.pdb
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Core\obj\Debug\net6.0\ref\JDiet.Core.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkUf44OG7Qm/YOwBG6SRqRocW6W93FiSJ4ija+8Sn/TuhrZHvjghqE5BoTqffcjT01+m0ca1Tt+6dS9dmqZsSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoãoPaulodosSantosSa\\Desktop\\Estudos\\JDiet\\JDiet.Domain\\JDiet.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
+    "C:\\Users\\JoãoPaulodosSantosSa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

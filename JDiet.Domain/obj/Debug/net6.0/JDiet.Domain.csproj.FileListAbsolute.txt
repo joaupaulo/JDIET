@@ -1,0 +1,12 @@
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\bin\Debug\net6.0\JDiet.Domain.deps.json
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\bin\Debug\net6.0\JDiet.Domain.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\bin\Debug\net6.0\JDiet.Domain.pdb
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\JDiet.Domain.csproj.AssemblyReference.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\JDiet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\JDiet.Domain.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\JDiet.Domain.AssemblyInfo.cs
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\JDiet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\JDiet.Domain.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\refint\JDiet.Domain.dll
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\JDiet.Domain.pdb
+C:\Users\JoãoPaulodosSantosSa\Desktop\Estudos\JDiet\JDiet.Domain\obj\Debug\net6.0\ref\JDiet.Domain.dll
